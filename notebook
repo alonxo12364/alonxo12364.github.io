@@ -282,6 +282,6 @@ Keep it simple, consistent, and clear.
 
 
 
-details:
-for example
+<details>
+# Example:<summary>
 variables and strings
